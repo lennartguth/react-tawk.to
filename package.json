@@ -1,0 +1,23 @@
+{
+    "name": "react-tawk.to",
+    "version": "1.0.0",
+    "description": "This package initialize and returns a tawk.to API instance and passes email and name to the API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lennartguth/react-tawk.to"
+    },
+    "keywords": [
+        "tawk.to",
+        "react"
+    ],
+    "author": "Lennart Guth",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lennartguth/react-tawk.to/issues"
+    },
+    "homepage": "https://github.com/lennartguth/react-tawk.to#readme"
+}
