@@ -2,7 +2,7 @@
 
 ### Documentation
 
-You can find for more details, API, and other docs on [tawk.to](https://www.tawk.to/javascript-api/) website.
+You can find for more details, API, and other docs on [tawk.to](https://www.tawk.to/javascript-api/) website or in our blog article on [PDFMailMerger.com/blog](https://pdfmailmerger.com/blog/how-can-i-pass-custom-attributes-to-the-tawk-to-widget-in-react/).
 
 ### Usage
 
